@@ -3,6 +3,22 @@ You can use the [editor on GitHub](https://github.com/LACRIMALit/LACRIMALit-Onto
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+
+
+
+
+
+Project website : https://www.ims.forth.gr/en/project/view?id=219
+
+
+
+The LACRIMALit Ontology of Crisis was build for the LACRIMALit Project by Maria Papadopoulou and Christophe Roche
+
+Université Savoie-Mont Blanc - Ontology for Digital Humanities http://o4dh.com/
+
+LICENCE: Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/ 2022
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,8 +27,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+LACRIMALit: Leaders and Crisis Management in Ancient Greek Literature (2022-2025)
 ## Header 2
+Principal Investigator : Melina Tamiolaki , Dept. of Philology UoC
 ### Header 3
+Host Institution : IMS/FORTH
+Collaborating Institution : University of Crete
+
+Funded by the Hellenic Foundation for Research and Innovation (H.F.R.I)
+
 
 - Bulleted
 - List
