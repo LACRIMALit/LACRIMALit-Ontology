@@ -1,5 +1,5 @@
 ## Welcome to LACRIMALit Ontology
-You can use the [editor on GitHub](https://github.com/LACRIMALit/LACRIMALit-Ontology/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Go to [Project website](https://www.ims.forth.gr/en/project/view?id=219).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-Project website : https://www.ims.forth.gr/en/project/view?id=219
+ : 
 
 
 
